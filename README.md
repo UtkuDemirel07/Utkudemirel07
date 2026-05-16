@@ -1,19 +1,19 @@
-# Hi, I'm Utku 👋
+# Hi, I'm Utku 
 
 Final-year Computer Science student at UWE Bristol, passionate about AI, Computer Vision, and Full Stack Development.
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 Final-year Computer Science student
-- 🧠 Interested in AI, Machine Learning & Computer Vision
-- 💻 Building full stack and AI-powered systems
-- 📍 Based in Bristol, UK
+-  Final-year Computer Science student
+-  Interested in AI, Machine Learning & Computer Vision
+-  Building full stack and AI-powered systems
+-  Based in Bristol, UK
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Languages
 - Python
@@ -47,12 +47,12 @@ Final-year Computer Science student at UWE Bristol, passionate about AI, Compute
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 ### AI Hair Transplant Analysis System
 AI-powered hair transplant consultation support system using Computer Vision and Deep Learning.
 
-### DESD-Genius AI Marketplace
+### BRFN AI Marketplace
 AI-integrated smart marketplace with product quality assessment and explainable AI features.
 
 ### LocalCrave
@@ -60,7 +60,7 @@ Modern platform for discovering independent cafés, restaurants, and hidden loca
 
 ---
 
-## 📫 Contact
+##  Contact
 
-- LinkedIn: www.linkedin.com/in/utku-demirel-a4669826a
+- LinkedIn: www.linkedin.com/in/utku-demirel-41411038a
 - Email: utkudemirel07@hotmail.com
