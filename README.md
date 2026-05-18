@@ -1,4 +1,8 @@
-# Hi, I'm Utku 
+<h1 align="center">Hi 👋, I'm Utku</h1>
+<h3 align="center">AI • Computer Vision • Full Stack Development</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;AI+Developer;Full+Stack+Developer;Computer+Vision+Enthusiast&center=true&width=500&height=50">
 
 Final-year Computer Science student at UWE Bristol, passionate about AI, Computer Vision, and Full Stack Development.
 
