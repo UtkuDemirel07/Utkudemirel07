@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Utku</h1>
+<h1 align="center">Hi , I'm Utku</h1>
 <h3 align="center">AI • Computer Vision • Full Stack Development</h3>
 
 <p align="center">
