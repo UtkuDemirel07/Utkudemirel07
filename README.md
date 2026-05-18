@@ -1,23 +1,24 @@
-<h1 align="center">Hi , I'm Utku</h1>
+<h1 align="center">Hi, I'm Utku</h1>
 <h3 align="center">AI • Computer Vision • Full Stack Development</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;AI+Developer;Full+Stack+Developer;Computer+Vision+Enthusiast&center=true&width=500&height=50">
+</p>
 
 Final-year Computer Science student at UWE Bristol, passionate about AI, Computer Vision, and Full Stack Development.
 
 ---
 
-##  About Me
+## About Me
 
--  Final-year Computer Science student
--  Interested in AI, Machine Learning & Computer Vision
--  Building full stack and AI-powered systems
--  Based in Bristol, UK
+- Final-year Computer Science student
+- Interested in AI, Machine Learning & Computer Vision
+- Building full stack and AI-powered systems
+- Based in Bristol, UK
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 ### Languages
 - Python
@@ -64,16 +65,14 @@ Modern platform for discovering independent cafés, restaurants, and hidden loca
 
 ---
 
-##  Contact
+## Contact
 
 - LinkedIn: www.linkedin.com/in/utku-demirel-41411038a
 - Email: utkudemirel07@hotmail.com
 
 ---
 
----
-
-##  GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=UtkuDemirel07&show_icons=true&theme=github_dark" height="180"/>
