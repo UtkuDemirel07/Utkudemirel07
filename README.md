@@ -68,3 +68,13 @@ Modern platform for discovering independent cafés, restaurants, and hidden loca
 
 - LinkedIn: www.linkedin.com/in/utku-demirel-41411038a
 - Email: utkudemirel07@hotmail.com
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UtkuDemirel07&show_icons=true&theme=tokyonight" height="180">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkuDemirel07&layout=compact&theme=tokyonight" height="180">
+</p>
